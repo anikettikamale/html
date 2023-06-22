@@ -57,7 +57,7 @@ ul li a{
     transition: 0.4s ease-in-out;
 }
 
-menu ul li a:hover{
+.menu ul li a:hover{
     color:rgb(138, 17, 174);
 }
 
