@@ -148,7 +148,7 @@ color:lightseagreen;
 .om img{
 height:500px;
  position:absolute; 
-transform:translateX(-80%);  
+transform:translateX(-90%);  
 transition: bottom 5s ,left 1s; 
  bottom: 40px; 
 padding:2em; 
